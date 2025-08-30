@@ -139,13 +139,13 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Connect
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [@yourusername](https://github.com/hachimamma)
+- **Email**: subhodisha2062@gmail.com
 
 ---
 
 **Star this repository if you find it helpful!**
 
 *Last Updated: August 2025*
+
 
