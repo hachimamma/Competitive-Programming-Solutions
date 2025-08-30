@@ -25,15 +25,6 @@ cp-solutions/
 └── README.md
 ```
 
-## Platforms
-
-| Platform | Profile | Problems Solved |
-|----------|---------|----------------|
-| [Codeforces](https://codeforces.com) | [@yourusername](https://codeforces.com/profile/yourusername) | 000+ |
-| [AtCoder](https://atcoder.jp) | [@yourusername](https://atcoder.jp/users/yourusername) | 000+ |
-| [LeetCode](https://leetcode.com) | [@yourusername](https://leetcode.com/yourusername) | 000+ |
-| [CodeChef](https://codechef.com) | [@yourusername](https://codechef.com/users/yourusername) | 000+ |
-
 ## Languages Used
 
 - **C++** (Primary) - Most solutions
@@ -157,3 +148,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 **Star this repository if you find it helpful!**
 
 *Last Updated: August 2025*
+
